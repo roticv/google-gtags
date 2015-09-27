@@ -1,0 +1,1 @@
+We found a bug internally that the new tag generation code in release 1.0.1 does not scale to huge source tree. GTags 1.0.2 addresses this issue. We strongly recommend an upgrade to 1.0.2.
